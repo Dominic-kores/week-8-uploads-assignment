@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Private environment variables
+.env
+**/.env
+.env.local
+**/.env.local
+
+# Build output
+dist/
+**/dist/
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
